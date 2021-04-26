@@ -21,7 +21,7 @@ footer-links:
   email: neulhan@icloud.com
   facebook:
   flickr:
-  github: Neulhan/jekyll-now
+  github: Neulhan/blog
   instagram:
   linkedin: 한결-신
   pinterest:
@@ -46,7 +46,7 @@ url: "https://neulhan.github.io"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/jekyll-now"
+baseurl: "/blog"
 
 #
 # !! You don't need to change any of the configuration flags below !!
